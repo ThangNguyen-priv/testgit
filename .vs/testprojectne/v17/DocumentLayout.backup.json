@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code app\\github\\test\\testgit\\",
+  "WorkspaceRootPath": "D:\\code app\\fork\\hehe\\testgit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99DFE5FB-DE5E-41B9-8407-0A30BA6A0736}|testprojectne\\testprojectne.csproj|d:\\code app\\github\\test\\testgit\\testprojectne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{99DFE5FB-DE5E-41B9-8407-0A30BA6A0736}|testprojectne\\testprojectne.csproj|d:\\code app\\fork\\hehe\\testgit\\testprojectne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{99DFE5FB-DE5E-41B9-8407-0A30BA6A0736}|testprojectne\\testprojectne.csproj|solutionrelative:testprojectne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1543FC95-416E-4AB0-AEC4-13CF917EA2FC}|Solution Items{1543FC95-416E-4AB0-AEC4-13CF917EA2FC}|D:\\code app\\fork\\hehe\\testgit\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1543FC95-416E-4AB0-AEC4-13CF917EA2FC}|Solution Items{1543FC95-416E-4AB0-AEC4-13CF917EA2FC}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,11 +38,24 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\code app\\fork\\hehe\\testgit\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\code app\\fork\\hehe\\testgit\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
+              "WhenOpened": "2024-11-11T19:13:20.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\code app\\github\\test\\testgit\\testprojectne\\Form1.cs",
+              "DocumentMoniker": "D:\\code app\\fork\\hehe\\testgit\\testprojectne\\Form1.cs",
               "RelativeDocumentMoniker": "testprojectne\\Form1.cs",
-              "ToolTip": "D:\\code app\\github\\test\\testgit\\testprojectne\\Form1.cs [Design]",
+              "ToolTip": "D:\\code app\\fork\\hehe\\testgit\\testprojectne\\Form1.cs [Design]",
               "RelativeToolTip": "testprojectne\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T17:11:50.525Z",
